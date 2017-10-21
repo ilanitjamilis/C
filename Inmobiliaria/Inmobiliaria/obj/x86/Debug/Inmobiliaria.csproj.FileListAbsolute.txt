@@ -1,0 +1,15 @@
+Z:\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+Z:\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+Z:\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.Form1.resources
+Z:\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.Properties.Resources.resources
+Z:\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.exe
+Z:\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.Form1.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Inmobiliaria\Inmobiliaria\obj\x86\Debug\Inmobiliaria.csproj.GenerateResource.Cache

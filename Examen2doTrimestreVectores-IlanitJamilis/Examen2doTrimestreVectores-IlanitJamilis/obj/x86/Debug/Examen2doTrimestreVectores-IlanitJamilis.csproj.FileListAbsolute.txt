@@ -1,0 +1,7 @@
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestreVectores-IlanitJamilis\Examen2doTrimestreVectores-IlanitJamilis\obj\x86\Debug\Examen2doTrimestreVectores_IlanitJamilis.Form1.resources
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestreVectores-IlanitJamilis\Examen2doTrimestreVectores-IlanitJamilis\obj\x86\Debug\Examen2doTrimestreVectores_IlanitJamilis.Properties.Resources.resources
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestreVectores-IlanitJamilis\Examen2doTrimestreVectores-IlanitJamilis\obj\x86\Debug\Examen2doTrimestreVectores-IlanitJamilis.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestreVectores-IlanitJamilis\Examen2doTrimestreVectores-IlanitJamilis\bin\Debug\Examen2doTrimestreVectores-IlanitJamilis.exe
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestreVectores-IlanitJamilis\Examen2doTrimestreVectores-IlanitJamilis\bin\Debug\Examen2doTrimestreVectores-IlanitJamilis.pdb
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestreVectores-IlanitJamilis\Examen2doTrimestreVectores-IlanitJamilis\obj\x86\Debug\Examen2doTrimestreVectores-IlanitJamilis.exe
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestreVectores-IlanitJamilis\Examen2doTrimestreVectores-IlanitJamilis\obj\x86\Debug\Examen2doTrimestreVectores-IlanitJamilis.pdb

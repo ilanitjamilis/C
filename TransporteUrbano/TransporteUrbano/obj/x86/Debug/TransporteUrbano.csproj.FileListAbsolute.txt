@@ -1,0 +1,16 @@
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\bin\Debug\TransporteUrbano.exe
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\bin\Debug\TransporteUrbano.pdb
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.Form1.resources
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.Properties.Resources.resources
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.exe
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.pdb
+Z:\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.exe
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.pdb
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\bin\Debug\TransporteUrbano.exe
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\bin\Debug\TransporteUrbano.pdb
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.Form1.resources
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Tercer Trimestre\TransporteUrbano\TransporteUrbano\obj\x86\Debug\TransporteUrbano.csproj.GenerateResource.Cache

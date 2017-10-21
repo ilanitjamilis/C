@@ -1,0 +1,9 @@
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\bin\Debug\Megatlon.exe.config
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\obj\Debug\Megatlon.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\obj\Debug\Megatlon.Form1.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\obj\Debug\Megatlon.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\obj\Debug\Megatlon.csproj.GenerateResource.Cache
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\bin\Debug\Megatlon.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\bin\Debug\Megatlon.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\obj\Debug\Megatlon.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\GimnasioMegatlon\Megatlon\obj\Debug\Megatlon.pdb

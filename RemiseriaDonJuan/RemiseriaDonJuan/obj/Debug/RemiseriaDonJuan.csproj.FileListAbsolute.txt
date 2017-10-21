@@ -1,0 +1,9 @@
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\bin\Debug\RemiseriaDonJuan.exe.config
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\obj\Debug\RemiseriaDonJuan.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\obj\Debug\RemiseriaDonJuan.Form1.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\obj\Debug\RemiseriaDonJuan.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\obj\Debug\RemiseriaDonJuan.csproj.GenerateResource.Cache
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\bin\Debug\RemiseriaDonJuan.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\bin\Debug\RemiseriaDonJuan.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\obj\Debug\RemiseriaDonJuan.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\RemiseriaDonJuan\RemiseriaDonJuan\obj\Debug\RemiseriaDonJuan.pdb

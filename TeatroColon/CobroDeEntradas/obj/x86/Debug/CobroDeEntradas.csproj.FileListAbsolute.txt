@@ -1,0 +1,11 @@
+Z:\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.Form1.resources
+Z:\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\bin\Debug\CobroDeEntradas.exe
+Z:\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\bin\Debug\CobroDeEntradas.pdb
+Z:\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.exe
+Z:\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.pdb
+D:\Ilanit\Dropbox\A Ort\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.exe
+D:\Ilanit\Dropbox\A Ort\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\TeatroColon\CobroDeEntradas\obj\x86\Debug\CobroDeEntradas.pdb

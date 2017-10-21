@@ -1,0 +1,8 @@
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\bin\Debug\Garbarino.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\bin\Debug\Garbarino.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\obj\x86\Debug\Garbarino.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\obj\x86\Debug\Garbarino.Form1.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\obj\x86\Debug\Garbarino.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\obj\x86\Debug\Garbarino.csproj.GenerateResource.Cache
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\obj\x86\Debug\Garbarino.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Garbarino\Garbarino\obj\x86\Debug\Garbarino.pdb

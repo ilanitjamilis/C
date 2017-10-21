@@ -1,0 +1,16 @@
+Z:\4to año\Programacion\Segundo Trimestre\AFA\AFA\bin\Debug\AFA.exe
+Z:\4to año\Programacion\Segundo Trimestre\AFA\AFA\bin\Debug\AFA.pdb
+Z:\4to año\Programacion\Segundo Trimestre\AFA\AFA\obj\x86\Debug\AFA.Form1.resources
+Z:\4to año\Programacion\Segundo Trimestre\AFA\AFA\obj\x86\Debug\AFA.Properties.Resources.resources
+Z:\4to año\Programacion\Segundo Trimestre\AFA\AFA\obj\x86\Debug\AFA.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Segundo Trimestre\AFA\AFA\obj\x86\Debug\AFA.exe
+Z:\4to año\Programacion\Segundo Trimestre\AFA\AFA\obj\x86\Debug\AFA.pdb
+Z:\4to año\Programacion\Tercer Trimestre\AFA\AFA\obj\x86\Debug\AFA.exe
+Z:\4to año\Programacion\Tercer Trimestre\AFA\AFA\obj\x86\Debug\AFA.pdb
+Z:\4to año\Programacion\Tercer Trimestre\AFA\AFA\obj\x86\Debug\AFA.Form1.resources
+Z:\4to año\Programacion\Tercer Trimestre\AFA\AFA\obj\x86\Debug\AFA.Properties.Resources.resources
+Z:\4to año\Programacion\Tercer Trimestre\AFA\AFA\obj\x86\Debug\AFA.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Tercer Trimestre\AFA\AFA\bin\Debug\AFA.exe
+Z:\4to año\Programacion\Tercer Trimestre\AFA\AFA\bin\Debug\AFA.pdb
+D:\Ort\4to año\Programacion\Tercer Trimestre\AFA\AFA\obj\x86\Debug\AFA.exe
+D:\Ort\4to año\Programacion\Tercer Trimestre\AFA\AFA\obj\x86\Debug\AFA.pdb

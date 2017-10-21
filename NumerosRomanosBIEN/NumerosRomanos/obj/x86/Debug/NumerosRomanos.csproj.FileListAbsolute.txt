@@ -1,0 +1,15 @@
+Z:\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.exe
+Z:\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+Z:\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.Form1.resources
+Z:\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.exe
+Z:\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.Form1.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\NumerosRomanos\NumerosRomanos\obj\x86\Debug\NumerosRomanos.csproj.GenerateResource.Cache

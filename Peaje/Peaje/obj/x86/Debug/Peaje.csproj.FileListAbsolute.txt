@@ -1,0 +1,16 @@
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.Form1.resources
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\bin\Debug\Peaje.exe
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\bin\Debug\Peaje.pdb
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.exe
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.pdb
+Z:\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\bin\Debug\Peaje.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\bin\Debug\Peaje.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.Form1.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Peaje\Peaje\obj\x86\Debug\Peaje.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre\Examen2doTrimestre\bin\Debug\Examen2doTrimestre.exe
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre\Examen2doTrimestre\bin\Debug\Examen2doTrimestre.pdb
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.Properties.Resources.resources
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.exe
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.pdb
+Z:\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.Examen2doTrimestre.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\bin\Debug\Examen2doTrimestre.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\bin\Debug\Examen2doTrimestre.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.Examen2doTrimestre.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Examen2doTrimestre-IlanitJamilis\Examen2doTrimestre\obj\x86\Debug\Examen2doTrimestre.csproj.GenerateResource.Cache

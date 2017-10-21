@@ -1,0 +1,9 @@
+Z:\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\bin\Debug\TiendaDeCafe.exe
+Z:\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\bin\Debug\TiendaDeCafe.pdb
+Z:\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\obj\x86\Debug\TiendaDeCafe.frmTiendaDeCafe.resources
+Z:\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\obj\x86\Debug\TiendaDeCafe.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\obj\x86\Debug\TiendaDeCafe.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\obj\x86\Debug\TiendaDeCafe.exe
+Z:\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\obj\x86\Debug\TiendaDeCafe.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\obj\x86\Debug\TiendaDeCafe.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\TiendaDeCafe\TiendaDeCafe\obj\x86\Debug\TiendaDeCafe.pdb

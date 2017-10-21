@@ -1,0 +1,15 @@
+Z:\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.Form1.resources
+Z:\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\bin\Debug\ClubAlmagro.exe
+Z:\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\bin\Debug\ClubAlmagro.pdb
+Z:\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.exe
+Z:\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\bin\Debug\ClubAlmagro.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\bin\Debug\ClubAlmagro.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.Form1.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\ClubAlmagro\ClubAlmagro\obj\x86\Debug\ClubAlmagro.csproj.GenerateResource.Cache

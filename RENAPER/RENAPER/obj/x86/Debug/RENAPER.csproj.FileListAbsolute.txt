@@ -1,0 +1,10 @@
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.Renaper.resources
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\bin\Debug\RENAPER.exe
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\bin\Debug\RENAPER.pdb
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.exe
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.pdb
+Z:\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\RENAPER\RENAPER\obj\x86\Debug\RENAPER.pdb

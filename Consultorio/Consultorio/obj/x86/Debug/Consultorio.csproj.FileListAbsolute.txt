@@ -1,0 +1,32 @@
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\bin\Debug\Consultorio.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\bin\Debug\Consultorio.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\obj\x86\Debug\Consultorio.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\obj\x86\Debug\Consultorio.Form1.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\obj\x86\Debug\Consultorio.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio hacer cambios\Consultorio\obj\x86\Debug\Consultorio.pdb
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csprojResolveAssemblyReference.cache
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Form1.resources
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\Consultorio casi terminado\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csprojResolveAssemblyReference.cache
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+Z:\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.gpbZona.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.gpbZona.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\bin\Debug\PruebaVariableString.exe.config
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\bin\Debug\PruebaVariableString.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\bin\Debug\PruebaVariableString.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\obj\Debug\PruebaVariableString.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\obj\Debug\PruebaVariableString.NombreApellido.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\obj\Debug\PruebaVariableString.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\obj\Debug\PruebaVariableString.csproj.GenerateResource.Cache
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\obj\Debug\PruebaVariableString.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\PruebaVariableString\PruebaVariableString\obj\Debug\PruebaVariableString.pdb

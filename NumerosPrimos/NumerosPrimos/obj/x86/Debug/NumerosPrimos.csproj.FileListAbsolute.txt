@@ -1,0 +1,16 @@
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.Form1.resources
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.Properties.Resources.resources
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.exe
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.pdb
+Z:\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.Form1.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\NumerosPrimos\NumerosPrimos\obj\x86\Debug\NumerosPrimos.csproj.GenerateResource.Cache

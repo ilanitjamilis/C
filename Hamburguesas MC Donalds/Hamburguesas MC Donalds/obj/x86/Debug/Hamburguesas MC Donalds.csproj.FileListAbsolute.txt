@@ -1,0 +1,15 @@
+Z:\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\bin\Debug\Hamburguesas MC Donalds.exe
+Z:\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\bin\Debug\Hamburguesas MC Donalds.pdb
+Z:\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas_MC_Donalds.Form1.resources
+Z:\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas_MC_Donalds.Properties.Resources.resources
+Z:\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas MC Donalds.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas MC Donalds.exe
+Z:\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas MC Donalds.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas MC Donalds.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas MC Donalds.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\bin\Debug\Hamburguesas MC Donalds.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\bin\Debug\Hamburguesas MC Donalds.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas MC Donalds.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas_MC_Donalds.Form1.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas_MC_Donalds.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Hamburguesas MC Donalds\Hamburguesas MC Donalds\obj\x86\Debug\Hamburguesas MC Donalds.csproj.GenerateResource.Cache

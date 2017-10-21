@@ -1,0 +1,16 @@
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\bin\Debug\JuegoDePalabras.exe
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\bin\Debug\JuegoDePalabras.pdb
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.Properties.Resources.resources
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.exe
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.pdb
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.frmJuegoDePalabras.resources
+Z:\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\bin\Debug\JuegoDePalabras.exe
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\bin\Debug\JuegoDePalabras.pdb
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.frmJuegoDePalabras.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Primer Trimestre\JuegoDePalabras\JuegoDePalabras\obj\x86\Debug\JuegoDePalabras.csproj.GenerateResource.Cache

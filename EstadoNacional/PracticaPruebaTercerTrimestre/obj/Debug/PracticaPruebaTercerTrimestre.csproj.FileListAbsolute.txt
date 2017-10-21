@@ -1,0 +1,12 @@
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\bin\Debug\PracticaPruebaTercerTrimestre.exe.config
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\bin\Debug\PracticaPruebaTercerTrimestre.exe
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\bin\Debug\PracticaPruebaTercerTrimestre.pdb
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.Form1.resources
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.csproj.GenerateResource.Cache
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.exe
+D:\Ort\4to año\Programacion\Tercer Trimestre\PracticaPruebaTercerTrimestre\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.pdb
+Z:\4to año\Programacion\Tercer Trimestre\EstadoNacional\PracticaPruebaTercerTrimestre\bin\Debug\PracticaPruebaTercerTrimestre.exe.config
+Z:\4to año\Programacion\Tercer Trimestre\EstadoNacional\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.exe
+Z:\4to año\Programacion\Tercer Trimestre\EstadoNacional\PracticaPruebaTercerTrimestre\obj\Debug\PracticaPruebaTercerTrimestre.pdb

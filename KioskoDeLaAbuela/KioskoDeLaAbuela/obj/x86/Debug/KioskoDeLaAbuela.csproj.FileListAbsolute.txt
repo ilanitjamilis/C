@@ -1,0 +1,10 @@
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\bin\Debug\KioskoDeLaAbuela.exe
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\bin\Debug\KioskoDeLaAbuela.pdb
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.Form1.resources
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.Properties.Resources.resources
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.csproj.GenerateResource.Cache
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.exe
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.pdb
+Z:\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\KioskoDeLaAbuela\KioskoDeLaAbuela\obj\x86\Debug\KioskoDeLaAbuela.pdb

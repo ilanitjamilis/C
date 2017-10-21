@@ -1,0 +1,16 @@
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.Form1.resources
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.Properties.Resources.resources
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.csproj.GenerateResource.Cache
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\bin\Debug\Muebleria.exe
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\bin\Debug\Muebleria.pdb
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.exe
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.pdb
+Z:\Programacion\2do trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\bin\Debug\Muebleria.exe
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\bin\Debug\Muebleria.pdb
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.csprojResolveAssemblyReference.cache
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.Form1.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.Properties.Resources.resources
+D:\Ort\4to año\Programacion\Segundo Trimestre\Muebleria\Muebleria\obj\x86\Debug\Muebleria.csproj.GenerateResource.Cache
